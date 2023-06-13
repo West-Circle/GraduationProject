@@ -10,4 +10,4 @@
 
 *本仓库不提供项目源码，如需源码请联系本人微信：Peter060800 / 邮箱：yuan_0006@hotmail.com
 
-![image-20230613134021571](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20230613134021571.png)
+![image](https://github.com/West-Circle/GraduationProject/assets/16064988/735423a6-9fb1-46b9-8d32-727c64bd5862)
