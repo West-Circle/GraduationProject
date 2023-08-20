@@ -11,3 +11,9 @@
 *本仓库不提供项目源码，如需源码请联系本人微信：Peter060800 / 邮箱：yuan_0006@hotmail.com
 
 ![image](https://github.com/West-Circle/GraduationProject/assets/16064988/735423a6-9fb1-46b9-8d32-727c64bd5862)
+
+**Topic**: Design and Implementation of Sports Items Mall Based on Spring Boot and Vue
+**Technology Framework**: front-end Vue framework, back-end Spring Boot + Mybatis Plus framework, database MySQL
+**Project features**: Implement the basic functions of the mall website, the main feature of which is based on the implementation of crowdsourcing counterfeiting.
+**Project server address**: http://121.40.66.85/ (suspended service)
+*This repository does not provide project source code, if you need source code, please contact my WeChat: Peter060800 / Email: yuan_0006@hotmail.com
