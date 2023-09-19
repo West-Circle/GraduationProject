@@ -21,3 +21,5 @@
 **Project server address**: http://121.40.66.85/ (suspended service)
 
 *This repository does not provide project source code, if you need source code, please contact my WeChat: Peter060800 / Email: yuan_0006@hotmail.com
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=West-Circle&repo=GraduationProject&countColor=%237B1E7A)
